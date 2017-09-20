@@ -1,0 +1,19 @@
+{
+  "name": "helloworldtestbymiguel",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelsanchezbelenguer/nodejstest.git"
+  },
+  "author": "Miguel Sánchez Belenguer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelsanchezbelenguer/nodejstest/issues"
+  },
+  "homepage": "https://github.com/miguelsanchezbelenguer/nodejstest#readme"
+}
